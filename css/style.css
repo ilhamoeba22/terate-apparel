@@ -1,0 +1,25 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bi-facebook, .bi-twitter, .bi-instagram{
+    font-size: 2em;
+}
+.bi-percent, .bi-truck, .bi-arrow-left-right, .bi-person{
+    font-size: 2em;
+}
+.bi-chevron-down{
+    font-size: 1em;
+}
+.list-inline-item{
+    margin-right: 15px;
+}
+.bi-instagram:hover, .bi-twitter:hover, .bi-facebook:hover, .link-light:hover{
+    display: inline-block;
+    color: yellow;
+}
+.background2{
+    background-color: #d6bb69;
+}
